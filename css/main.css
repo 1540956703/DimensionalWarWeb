@@ -1,0 +1,11 @@
+.top{
+	height:150px;
+	background:blue;
+	margin:0 auto;
+}
+.mid{
+	width:400px;
+	height:400px;
+	background:red;
+	margin:0 auto;
+}
